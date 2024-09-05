@@ -1,6 +1,4 @@
-Here's the README documentation for your code:
 
----
 
 # OAuth2 Client ID and Secret Management Service
 
@@ -126,10 +124,4 @@ Fetches the stored access token and refresh token.
   - `409 Conflict` for client ID duplication.
   - `500 Internal Server Error` for unexpected errors.
 
-## License
-This project is licensed under the MIT License.
-
---- 
-
-This documentation provides a comprehensive overview of your API, its endpoints, and the processes involved. Let me know if you'd like to add or change any sections!
 
